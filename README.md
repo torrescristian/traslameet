@@ -1,5 +1,9 @@
 # TraslaMeets 
 
+## Podes compartir esta página desde: 
+
+### [tinyurl.com/traslameets](https://tinyurl.com/traslameets)
+
 ## Whitepaper
 
 * El evento se realizará el 3er jueves de cada mes

@@ -17,11 +17,11 @@
 * Esto último también aplica a los sponsors como también utilizar el evento como medio para compartir búsquedas activas.
 
 ## Programa:
-* 19hs Inicio del evento
-* 20hs Primer charla
-* 21hs Comida, birra & chill
-* 22hs Segunda charla
-* 23hs Cierre
+* 20hs Inicio del evento
+* 21hs Primer charla
+* 22hs Comida, birra & chill
+* 23hs Segunda charla
+* 00hs Cierre
 
 ## Entradas:
 
